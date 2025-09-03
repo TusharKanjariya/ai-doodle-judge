@@ -8,9 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "formidable": "^3.5.4",
+    "imagetracerjs": "^1.2.6",
+    "next": "15.5.2",
     "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.5.2"
+    "react-dom": "19.1.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
